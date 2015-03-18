@@ -2,9 +2,6 @@
 title: "Codebook template"
 author: "Guergana Tzatchkova"
 date: "March 18, 2015"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 ## Project Description
