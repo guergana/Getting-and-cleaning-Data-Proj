@@ -1,5 +1,5 @@
 ---
-title: "Codebook template"
+title: "Codebook"
 author: "Guergana Tzatchkova"
 date: "March 18, 2015"
 ---
